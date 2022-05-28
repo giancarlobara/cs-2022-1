@@ -1,7 +1,7 @@
 ## Tarefa 001 - 25/05/2022 - Questionário - Perfil Estudante
 
 1. Matrícula: **201905531**
-2. Nome:** Giancarlo Oliveira Silva**
+2. Nome: **Giancarlo Oliveira Silva**
 
 3. Qual seu conhecimento/experiência em relação ao desenvolvimento de software? **Pouco conhecimento, nenhuma experiência.**
 4. Quais Linguagens de Programação você domina? **Nenhuma.**
