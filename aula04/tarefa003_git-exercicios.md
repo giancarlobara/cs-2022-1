@@ -5,28 +5,24 @@ Responda as questões abaixo (exercite os comandos do git correspondentes). Lemb
 
 1. Qual o comando para obter a versão instalada do Git?   **git --version**.
 2. Qual o efeito da execução de cada um dos comandos abaixo? 
-  a. git help: **Exibe um resumo do comando git e uma lista de seus comandos mais utilizados**.
+  a) git help: **Exibe um resumo do comando git e uma lista de seus comandos mais utilizados**.
   
-  b. git help checkout: **Exibe uma página de manual do comando checkout**.
-  
-  c. git help merge: **Exibe uma página de manual do comando merge**.
-  
-  d. git init: **Cria um novo repositório**.
-  
-  e. git add --all: **Adiciona todos os arquivos e alterações ao repositório**.
-  
-  f. git add -u:  **Adiciona todos os arquivos alterados ao repositório**. 
-  
-  g. git config -l: **Lista todas as variáveis ​​definidas no arquivo da configuração, juntamente com seus valores**.
-  
-  h. git mv a.txt b.txt: **Renomeia o arquivo a.txt para b.txt**.
-  
-  i. git reset --hard: **Redefine todas alterações de arquivos no repositório desde <commit>**.
-  
-  j. git log -27: **Mostra até 27 commits no logs de commits**.
+  b) git help checkout: **Exibe uma página de manual do comando checkout**.
+  c) git help merge: **Exibe uma página de manual do comando merge**.
+  d) git init: **Cria um novo repositório**.
+  e) git add --all: **Adiciona todos os arquivos e alterações ao repositório**. 
+  f) git add -u:  **Adiciona todos os arquivos alterados ao repositório**.  
+  g) git config -l: **Lista todas as variáveis ​​definidas no arquivo da configuração, juntamente com seus valores**. 
+  h) git mv a.txt b.txt: **Renomeia o arquivo a.txt para b.txt**.  
+  i) git reset --hard: **Redefine todas alterações de arquivos no repositório desde <commit>**.  
+  j) git log -27: **Mostra até 27 commits no logs de commits**.
 
-3. O fluxo “clássico” de interação com o Git é algo como “alterar um ou mais arquivos”, “acrescentar essas mudanças para serem contemplados no próximo commit” e, finalmente, executar um “commit”. Quais os comandos necessários para realizar os dois últimos “passos” desse fluxo?  **git add <arquivo> e git commit -m**.
-4. Qual o comando deve ser executado para identificar o que foi alterado desde o último “commit”? **git diff**.
+3. O fluxo “clássico” de interação com o Git é algo como “alterar um ou mais arquivos”, “acrescentar essas mudanças para serem contemplados no próximo commit” e, finalmente, executar um “commit”. Quais os comandos necessários para realizar os dois últimos “passos” desse fluxo? 
+ **git add <arquivo> e git commit -m**.
+ 
+4. Qual o comando deve ser executado para identificar o que foi alterado desde o último “commit”?
+ **git diff**.
+ 
 5. Em um dado repositório, arquivos simplesmente copiados para lá, ou seja, _untracked_, podem ser exibidos/identificados com que comando? **git status	**.
 6. Qual o comando para efetuar um _commit_? **git commit -m**.
 7. Qual o comando que devemos empregar para descartar mudanças ocorridas no arquivo teste.txt, por exemplo? **git reset teste.txt**.
