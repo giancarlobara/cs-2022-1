@@ -7,14 +7,23 @@ Responda as questões abaixo (exercite os comandos do git correspondentes). Lemb
 
 2. Qual o efeito da execução de cada um dos comandos abaixo? 
  	a) git help: **Exibe um resumo do comando git e uma lista de seus comandos mais utilizados**.
+ 	
  	b) git help checkout: **Exibe uma página de manual do comando checkout**.
+ 	
   	c) git help merge: **Exibe uma página de manual do comando merge**.
+  	
  	d) git init: **Cria um novo repositório**.
+ 	
   	e) git add --all: **Adiciona todos os arquivos e alterações ao repositório**. 
+  	
  	f) git add -u:  **Adiciona todos os arquivos alterados ao repositório**.  
+ 	
  	g) git config -l: **Lista todas as variáveis ​​definidas no arquivo da configuração, juntamente com seus valores**. 
+ 	
  	h) git mv a.txt b.txt: **Renomeia o arquivo a.txt para b.txt**.  
+ 	
  	i) git reset --hard: **Redefine todas alterações de arquivos no repositório desde o commit**.  
+ 	
 	j) git log -27: **Mostra até 27 commits no logs de commits**.
 
 3. O fluxo “clássico” de interação com o Git é algo como “alterar um ou mais arquivos”, “acrescentar essas mudanças para serem contemplados no próximo commit” e, finalmente, executar um “commit”. Quais os comandos necessários para realizar os dois últimos “passos” desse fluxo? 
