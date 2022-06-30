@@ -1,8 +1,0 @@
-
-’
-java:S1319*"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ª€åûýÿÿÿÿ8¤ °”›0
-Š
-java:S1319."hThe type of "endereco" should be an interface such as "List" rather than the implementation "ArrayList".(¢Ò¾œúÿÿÿÿ8¥ °”›0
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì…ÑÆúÿÿÿÿ
-t	java:S116
-"SRename this field "Endereco" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö˜¤šùÿÿÿÿ8ªùØ‘›0
