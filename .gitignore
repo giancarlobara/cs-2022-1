@@ -2,6 +2,6 @@
 /shelf/
 /workspace.xml
 
-.vscode
-.idea
-endereco.iml
+/.vscode
+/.idea
+/endereco.iml
