@@ -1,13 +1,11 @@
 ## Tarefa 005 - 10/06/2022 - Linguagens de Programação
 
-1. Elaborar um pesquisa sobre linguagens de programação, abordar de forma generalizada os aspectos de pelo menos 5 linguagens. Abordar de forma mais específica as características de uma linguagem de sua preferência. Pode ser uma das cinco ou não.
-2. O resultado desta pesquisa deverá ser um texto eaborado com suas próprias palavras explicitando seu entendimento acerca do conteúdo pesquisado.
-Commitar no repositório pessoal até o dia 14/06.
+O Java é uma linguagem de programação de alto nível e grande difusora do método de programação orientada a objetos. Presente no desenvolvimento de diversos sistemas, a linguagem apresenta grande portabilidade ("write once, run anywhere").  Possui uma grande biblioteca de rotina, além de ser pensada para atender inúmeras aplicações. Um diferencial do java é sua compilação proveniente de uma Máquina Virtual Java (JVM).
 
-INSTRUÇÕES:
-1. Este é um arquivo no formato _markdown_ (.md), caso você precise de orientações a respeito da forma como editar este tipo de arquivo, acesso este [link](https://guides.github.com/features/mastering-markdown/);
-2. No seu repositório cs-2022-1, crie a pasta aula06;
-3. Adicione este arquivo nesta nova pasta;
-4. Remova esta Seção de INSTRUÇÕES, do arquivo respondido.
-6. Faça o _Commit_ do arquivo atualizado com suas respostas.
-7. Isso deve ser feito até as 23h59min do dia 14/06/2022.
+O Python ganha uma certa notoriedade na área de Inteligência Artificial e Aprendizado de Máquina. Uma linguagem de fácil aprendizagem e multiparadigmas, podendo ser orientada a objetos, assim como o Java, procedural e funcional. Open Source, possui assim diversas bibliotecas oferecidas e desenvolvidas pela comunidade, porém um ponto complicado nessa linguagem é suas versões não compatíveis. A execução do código em Python pode ser feita de forma Interpretada quando Compilada.
+
+O C# possui características muito parecidas com o Java, sendo uma linguagem orientada a objetos e boa portabilidade, podendo ser executado em diversos dispositivos. Muito útil para o desenvolvimento de Games, o C# é a base para a maior plataforma de Games. Para a sua compilação o código escrito em C# passa por diversas etapas até ser executado pelo compilador JIT. De sintaxe simples e de fácil entendimento a linguagem é fácil para programadores de outras linguagens.
+
+O JavaScript é uma linguagem multiparadigmas e dinâmica. É uma linguagem criada para navegadores que pode ser inserida para outras plataformas através de ambientes de execução, como o Deno. JavaScript vem evoluindo muito ao longo do tempo e possui uma sólida comunidade. Porém se tratando de segurança, pois seu código fica aberto para inspeção no sistema que está sendo executado facilitando ações mal intencionadas. 
+
+O C é uma linguagem de alto nível, onde também possui recursos para baixo nível, que tornou possível que outras linguagem pudessem surgir. Ela é: procedural, portável, compartimentalizada, entre outros. Os dados são tratados de duas formas: primitivos e derivados; além de modificadores.
