@@ -2,5 +2,8 @@
 /shelf/
 /workspace.xml
 .idea
-/tarefa009/tarefa009.md
+/tarefa009.md
 /tarefa009.iml
+/polimorfismo.png
+/out/production/tarefa009/Polimorfismo
+.gitignore
