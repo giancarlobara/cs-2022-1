@@ -10,6 +10,7 @@ public class TestaAgenda {
 
         agenda.adicionaContato(c1);
         agenda.adicionaContato(c2);
+        agenda.excluiContato("Moriarty");
         agenda.adicionaContato(c3);
     }
 }
