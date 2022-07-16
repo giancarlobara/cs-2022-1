@@ -1,5 +1,11 @@
 package tarefa008;
 
+/**
+ *  Classe para representar Endereço
+ *  Autor: Giancarlo Oliveira Silva
+ *  Data: 15/07/2022
+ */
+
 public class Endereco {
     private Integer numero;
     private String complemento;

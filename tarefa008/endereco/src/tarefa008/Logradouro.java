@@ -1,5 +1,11 @@
 package tarefa008;
 
+/**
+ *  Classe para representar Logradouro
+ *  Autor: Giancarlo Oliveira Silva
+ *  Data: 15/07/2022
+ */
+
 public class Logradouro {
     private String nome;
     private TipoLogradouro tipoLogradouro;

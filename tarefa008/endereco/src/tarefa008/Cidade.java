@@ -1,5 +1,11 @@
 package tarefa008;
 
+/**
+ *  Classe para representar Cidade
+ *  Autor: Giancarlo Oliveira Silva
+ *  Data: 15/07/2022
+ */
+
 public class Cidade {
     private String nome;
     private Estado estado;

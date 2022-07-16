@@ -1,5 +1,11 @@
 package tarefa008;
 
+/**
+ *  Classe para representar Estado
+ *  Autor: Giancarlo Oliveira Silva
+ *  Data: 15/07/2022
+ */
+
 public class Estado {
     String nome;
     private String sigla;

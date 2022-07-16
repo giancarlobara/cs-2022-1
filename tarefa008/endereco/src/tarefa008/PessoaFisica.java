@@ -2,7 +2,11 @@ package tarefa008;
 
 import java.util.ArrayList;
 import java.util.Date;
-
+/**
+ *  Classe para representar Pessoa física
+ *  Autor: Giancarlo Oliveira Silva
+ *  Data: 15/07/2022
+ */
 public class PessoaFisica {
     private String nome;
     private String sexo;
